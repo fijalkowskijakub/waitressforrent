@@ -27,9 +27,9 @@ class Main extends React.Component {
             }`}
           style={{ display: 'none' }}
         >
-          <h2 className="major">Oferta</h2>
+          <h2 className="major">Intro</h2>
           <span className="image main">
-            <img src={pic01} alt="" />
+            <img src={pic01_1} alt="" />
           </span>
           <p>
             Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin
@@ -60,20 +60,20 @@ class Main extends React.Component {
             }`}
           style={{ display: 'none' }}
         >
-          <h2 className="major">Work</h2>
+          <h2 className="major">Oferta</h2>
           <span className="image main">
             <img src={pic02} alt="" />
           </span>
           <p>
-            Adipiscing magna sed dolor elit. Praesent eleifend dignissim arcu,
-            at eleifend sapien imperdiet ac. Aliquam erat volutpat. Praesent
-            urna nisi, fringila lorem et vehicula lacinia quam. Integer
-            sollicitudin mauris nec lorem luctus ultrices.
+            Oferujemy profesjonalna obsługe kelnerską. Naszą specjalnością jest obługa dużych imprez zorganizowanych wesel, poprawin, chrzcin, komuń oraz wszystkich innych imprez okolicznościowych.
           </p>
           <p>
-            Nullam et orci eu lorem consequat tincidunt vivamus et sagittis
-            libero. Mauris aliquet magna magna sed nunc rhoncus pharetra.
-            Pellentesque condimentum sem. In efficitur ligula tate urna.
+            Zajmujemy się ustawianiem, uszykowaniem, przygotowaniem i nakryciem stołów w odpowiednio dobraną zastawe.
+
+            Jedzenie możemy wydawać w sposób zaproponowany przez organizatów. Najcześciej polecamy wydawanie jedzenia synchronicznie tzn. każdy stół dostaje całe jedzenie za jednym wydaniem i przechodzimy do kolejnego stołu.
+
+            Po imprezach sprzątamy
+
             Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor.
             Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis
             libero. Mauris aliquet magna magna sed nunc rhoncus amet feugiat
@@ -88,15 +88,15 @@ class Main extends React.Component {
             }`}
           style={{ display: 'none' }}
         >
-          <h2 className="major">About</h2>
+          <h2 className="major">O nas</h2>
           <span className="image main">
             <img src={pic03} alt="" />
           </span>
           <p>
-            Lorem ipsum dolor sit amet, consectetur et adipiscing elit. Praesent
-            eleifend dignissim arcu, at eleifend sapien imperdiet ac. Aliquam
-            erat volutpat. Praesent urna nisi, fringila lorem et vehicula
-            lacinia quam. Integer sollicitudin mauris nec lorem luctus ultrices.
+            Jesteśmy młodym zgranym zespołem, który spotkał się i utworzył w trakcie wspólnej pracy w kilku restauracjach.
+            Postanowiliśmy pracować na własny rachunek, aby zapewnić jeszcze wyższą jakość obsługi gości.
+
+
             Aliquam libero et malesuada fames ac ante ipsum primis in faucibus.
             Cras viverra ligula sit amet ex mollis mattis lorem ipsum dolor sit
             amet.
@@ -110,10 +110,10 @@ class Main extends React.Component {
             }`}
           style={{ display: 'none' }}
         >
-          <h2 className="major">Contact</h2>
+          <h2 className="major">Kontakt</h2>
           <form method="post" action="#">
             <div className="field half first">
-              <label htmlFor="name">Name</label>
+              <label htmlFor="name">Imię</label>
               <input type="text" name="name" id="name" />
             </div>
             <div className="field half">
@@ -121,7 +121,7 @@ class Main extends React.Component {
               <input type="text" name="email" id="email" />
             </div>
             <div className="field">
-              <label htmlFor="message">Message</label>
+              <label htmlFor="message">Wiadomość</label>
               <textarea name="message" id="message" rows="4"></textarea>
             </div>
             <ul className="actions">
