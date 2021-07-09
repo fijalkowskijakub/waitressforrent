@@ -8,13 +8,13 @@ const Header = props => (
     </div>
     <div className="content">
       <div className="inner">
-        <h1>Dimension</h1>
+        <h1>Wynajem Kelnerów!</h1>
         <p>
-          A fully responsive site template designed by{' '}
-          <a href="https://html5up.net">HTML5 UP</a> and released
+          Jeśli poszukujesz profesjonalnej obsługi na swoją imprezę lub do swojej restauracji to jesteśmy dla Ciebie! Możesz zapoznać się z informacjami {' '}
+          <a href="https://html5up.net">O nas</a> lub przejść
           <br />
-          for free under the{' '}
-          <a href="https://html5up.net/license">Creative Commons</a> license.
+          do naszej {' '}
+          <a href="https://html5up.net/license">Oferty</a>.
         </p>
       </div>
     </div>
@@ -35,7 +35,7 @@ const Header = props => (
               props.onOpenArticle('work')
             }}
           >
-            Work
+            Oferta
           </button>
         </li>
         <li>
@@ -44,7 +44,7 @@ const Header = props => (
               props.onOpenArticle('about')
             }}
           >
-            About
+            O nas
           </button>
         </li>
         <li>
@@ -53,7 +53,7 @@ const Header = props => (
               props.onOpenArticle('contact')
             }}
           >
-            Contact
+            Kontakt
           </button>
         </li>
       </ul>
