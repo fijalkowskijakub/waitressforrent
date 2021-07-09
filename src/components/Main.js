@@ -3,7 +3,7 @@ import React from 'react'
 import pic01 from '../images/pic01.jpg'
 import pic02 from '../images/pic02.jpg'
 import pic03 from '../images/pic03.jpg'
-import pic01_1 from '../images/pic01_1'
+import pic01_1 from '../images/pic01_1.jpg'
 
 class Main extends React.Component {
   render() {
