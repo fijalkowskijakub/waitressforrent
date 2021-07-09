@@ -10,11 +10,12 @@ const Header = props => (
       <div className="inner">
         <h1>Wynajem Kelnerów!</h1>
         <p>
-          Jeśli poszukujesz profesjonalnej obsługi na swoją imprezę lub do swojej restauracji to jesteśmy dla Ciebie!<br />
-          Możesz zapoznać się z informacjami {' '}
-          <a href="https://html5up.net">O nas</a> lub przejść
+          Jeśli poszukujesz profesjonalnej obsługi na swoją imprezę lub do swojej
           <br />
-          do naszej {' '}
+          restauracji to jesteśmy dla Ciebie!
+          <br />
+          Możesz zapoznać się z informacjami {' '}
+          <a href="https://html5up.net">O nas</a> lub przejść do naszej {' '}
           <a href="https://html5up.net/license">Oferty</a>.
         </p>
       </div>
