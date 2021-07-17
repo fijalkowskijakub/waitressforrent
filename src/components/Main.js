@@ -40,7 +40,7 @@ class Main extends React.Component {
             Twój KUBUŚ <a href="#work">awesome work</a>.
           </p>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis
+            Bla bla bla bla Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis
             dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora
             torquent per conubia nostra, per inceptos himenaeos. Etiam tristique
             libero eu nibh porttitor fermentum. Nullam venenatis erat id
@@ -50,7 +50,7 @@ class Main extends React.Component {
             lectus. Pellentesque habitant morbi tristique senectus et netus et
             malesuada fames ac turpis egestas. In non lorem sit amet elit
             placerat maximus. Pellentesque aliquam maximus risus, vel sed
-            vehicula.
+            vehicula. Bla bla bla
           </p>
           {close}
         </article>
