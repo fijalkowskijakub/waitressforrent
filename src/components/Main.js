@@ -4,7 +4,7 @@ import pic01 from '../images/pic01.jpg'
 import pic02 from '../images/pic02.jpg'
 import pic03 from '../images/pic03.jpg'
 import pic01_1 from '../images/pic01_1.jpg'
-import pic01_11 from '../images/pic01_11.jpg'
+import pic01_11 from '../images/pic01_011.jpg'
 
 class Main extends React.Component {
   render() {
@@ -95,8 +95,7 @@ class Main extends React.Component {
             <img src={pic03} alt="" />
           </span>
           <p>
-            Jesteśmy młodym zgranym zespołem, który spotkał się i utworzył w trakcie wspólnej pracy w kilku restauracjach.
-            Postanowiliśmy pracować na własny rachunek, aby zapewnić jeszcze wyższą jakość obsługi gości.
+            Jesteśmy młodym zgranym zespołem, który uczył się pracy jako kelnerzy w kilku restauracjach. Poznaliśmy się w trakcie pracy i postanowiliśmy działać na własny rachunek, aby zapewnić jeszcze wyższą jakość obsługi gości.
 
 
             Aliquam libero et malesuada fames ac ante ipsum primis in faucibus.
