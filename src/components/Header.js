@@ -8,7 +8,7 @@ const Header = props => (
     </div>
     <div className="content">
       <div className="inner">
-        <h1>Wynajem Kelnerów!</h1>
+        <h1>Wynajem Usług Kelnerskich!</h1>
         <p>
           Jeśli poszukujesz profesjonalnej obsługi na swoją imprezę lub do swojej
           <br />lub

@@ -34,11 +34,10 @@ class Main extends React.Component {
             <img src={pic01_11} alt="" />
           </span>
           <p>
-            Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin
-            aliquam facilisis ante interdum congue. Integer mollis, nisl amet
-            convallis, porttitor magna ullamcorper, amet egestas mauris. Ut
-            magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas.
-            By the way, check out my <a href="#work">awesome work</a>.
+            Orgaznizujesz własna impreze i szukasz profesjonalnej obslugii? Czy może prowadzisz własną restuaracje i brakuję Ci rąk do pracy?
+            <br />
+            Bla bla bla Kaśka napisz coś mi bo nie wiem co prosze!!
+            Twój KUBUŚ <a href="#work">awesome work</a>.
           </p>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis
